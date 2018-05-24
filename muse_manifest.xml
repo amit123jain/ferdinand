@@ -1,0 +1,236 @@
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="text.com" resolutions="1x" timestamp="1527157774776">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_a-master.css" crc="4245375977" ref="portfolio:contact:index:single-page:about:services"/>
+    <file name="portfolio.css" crc="94372093" ref="portfolio"/>
+    <file name="contact.css" crc="404581985" ref="contact"/>
+    <file name="iefonts_contact.css" crc="4113720312" ref="contact"/>
+    <file name="index.css" crc="280062754" ref="index"/>
+    <file name="single-page.css" crc="243615840" ref="single-page"/>
+    <file name="about.css" crc="437795019" ref="about"/>
+    <file name="services.css" crc="4287085268" ref="services"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about:portfolio:services:contact:single-page"/>
+    <file name="museutils.js" crc="3803043152" ref="index:about:portfolio:services:contact:single-page"/>
+    <file name="whatinput.js" crc="86476730" ref="index:about:portfolio:services:contact:single-page"/>
+    <file name="museconfig.js" crc="380897831" ref="index:about:portfolio:services:contact:single-page"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:about:portfolio:services:contact:single-page"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index:about:portfolio:services:contact:single-page"/>
+    <file name="webpro.js" crc="242022427" ref="index:about:portfolio:services:contact:single-page"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="index:about:portfolio:services:contact:single-page"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="index:about:portfolio:services:contact:single-page"/>
+    <file name="touchswipe.js" crc="4066113679" ref="index:about:portfolio:services:contact:single-page"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="index:about:portfolio:services:contact:single-page"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:about:portfolio:services:contact:single-page"/>
+    <file name="require.js" crc="4157109226" ref="index:about:portfolio:services:contact:single-page"/>
+    <file name="form_check.php" crc="147359589" ref="contact"/>
+    <file name="form_throttle.php" crc="93986428" ref="contact"/>
+    <file name="form_process.php" crc="3851993751" ref="contact"/>
+    <file name="form-u2385.php" crc="3818725440" ref="contact"/>
+  </folder>
+  <folder name="images">
+    <file name="background image.jpg" crc="216660281" seo="true" ref="index:about:portfolio:services:contact:single-page">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="beautiful-blooming-blossom-992734.jpg" crc="203837700" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:about:portfolio:services:contact:single-page"/>
+    <file name="beach-clouds-daytime-994605.jpg" crc="279509516" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u412-4.png" crc="210002053" ref="index"/>
+    <file name="u418-4.png" crc="19735436" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="u94-4.png" crc="536282429" ref="index"/>
+    <file name="u119-4.png" crc="4202527629" ref="index"/>
+    <file name="u125-4.png" crc="507622359" ref="index"/>
+    <file name="u1688-4.png" crc="4239841899" ref="index:about:portfolio:services:contact:single-page"/>
+    <file name="u1701.png" crc="3841480248" ref="index:about:portfolio:services:contact:single-page"/>
+    <file name="u1701-r.png" crc="3839239745" ref="index:about:portfolio:services:contact:single-page"/>
+    <file name="u1701-a.png" crc="3839239745" ref="index:about:portfolio:services:contact:single-page"/>
+    <file name="u1694.png" crc="504613248" ref="index:about:portfolio:services:contact:single-page"/>
+    <file name="u1694-r.png" crc="4076914319" ref="index:about:portfolio:services:contact:single-page"/>
+    <file name="u1694-a.png" crc="4076914319" ref="index:about:portfolio:services:contact:single-page"/>
+    <file name="u1742.png" crc="218745630" ref="index:about:portfolio:services:contact:single-page"/>
+    <file name="u1742-r.png" crc="502297709" ref="index:about:portfolio:services:contact:single-page"/>
+    <file name="u1742-a.png" crc="502297709" ref="index:about:portfolio:services:contact:single-page"/>
+    <file name="u2080.png" crc="237154932" ref="index:about:portfolio:services:contact:single-page"/>
+    <file name="u2080-r.png" crc="410299580" ref="index:about:portfolio:services:contact:single-page"/>
+    <file name="u2080-a.png" crc="410299580" ref="index:about:portfolio:services:contact:single-page"/>
+    <file name="u2302.png" crc="303765856" ref="index:about:portfolio:services:contact:single-page"/>
+    <file name="u2302-r.png" crc="4234548550" ref="index:about:portfolio:services:contact:single-page"/>
+    <file name="u2302-a.png" crc="4234548550" ref="index:about:portfolio:services:contact:single-page"/>
+    <file name="u1760-4.png" crc="3854414602" ref="index:about:portfolio:services:contact:single-page"/>
+    <file name="u1763-4.png" crc="4078193317" ref="index:about:portfolio:services:contact:single-page"/>
+    <file name="u1766-4.png" crc="192625729" ref="index:about:portfolio:services:contact:single-page"/>
+    <file name="u1769-4.png" crc="4044572453" ref="index:about:portfolio:services:contact:single-page"/>
+    <file name="u1791-4.png" crc="39561816" ref="index:about:portfolio:services:contact:single-page"/>
+    <file name="u1803-4.png" crc="56206334" ref="index:about:portfolio:services:contact:single-page"/>
+    <file name="u1815-4.png" crc="39108073" ref="index:about:portfolio:services:contact:single-page"/>
+    <file name="u1839-4.png" crc="495055728" ref="index:about:portfolio:services:contact:single-page"/>
+    <file name="u1845-4.png" crc="221434414" ref="index:about:portfolio:services:contact:single-page"/>
+    <file name="u1851-9.png" crc="258788339" ref="index:about:portfolio:services:contact:single-page"/>
+    <file name="u2525.png" crc="434645488" ref="index:about:portfolio:services:contact:single-page"/>
+    <file name="u2525-a.png" crc="434645488" ref="index:about:portfolio:services:contact:single-page"/>
+    <file name="u547-4.png" crc="485717971" ref="about"/>
+    <file name="u578-4.png" crc="3816197138" ref="about"/>
+    <file name="u587-4.png" crc="194766385" ref="about"/>
+    <file name="u590-4.png" crc="4196306582" ref="about"/>
+    <file name="cover image about.jpg" crc="183803977" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="u673-4.png" crc="485717971" ref="portfolio"/>
+    <file name="u674-4.png" crc="4133129431" ref="portfolio"/>
+    <file name="u675-4.png" crc="4075921082" ref="portfolio"/>
+    <file name="u676-4.png" crc="512489334" ref="portfolio"/>
+    <file name="image 5@1x.jpg" crc="477098496" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="image 13@1x.jpg" crc="4221334052" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="image 1@1x.jpg" crc="96047669" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="image 6@1x.jpg" crc="3938247111" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="image 10@1x.jpg" crc="486989658" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="image 4@1x.jpg" crc="3825299256" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="image 16@1x.jpg" crc="426976960" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="image 12@1x.jpg" crc="4270082432" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="image 15@1x.jpg" crc="310371681" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="image 7@1x.jpg" crc="112622909" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="image 3@1x.jpg" crc="3869703697" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="image 9@1x.jpg" crc="189951008" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="image 11@1x.jpg" crc="4105188798" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="image 14@1x.jpg" crc="4252996412" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="image 8@1x.jpg" crc="4104708711" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="image 2@1x.jpg" crc="284214272" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="image 17@1x.jpg" crc="196490888" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="bra-dessous-lingerie-37345.jpg" crc="4265239704" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="adult-blur-body-196654.jpg" crc="4228312360" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="affair-anniversary-beach-1024993.jpg" crc="155818555" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="bride-ceremony-chairs-794254.jpg" crc="4211103104" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="adult-affection-beautiful-566454.jpg" crc="245680738" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="beautiful-blur-bridal-256737.jpg" crc="131826652" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="u910.png" crc="3813279200" ref="portfolio"/>
+    <file name="u910-a.png" crc="514141481" ref="portfolio"/>
+    <file name="u959.png" crc="4288293733" ref="portfolio"/>
+    <file name="u959-a.png" crc="71638678" ref="portfolio"/>
+    <file name="u962.png" crc="3775319791" ref="portfolio"/>
+    <file name="u962-a.png" crc="448716769" ref="portfolio"/>
+    <file name="u965.png" crc="241005548" ref="portfolio"/>
+    <file name="u965-a.png" crc="361735042" ref="portfolio"/>
+    <file name="u968.png" crc="4084859385" ref="portfolio"/>
+    <file name="u968-a.png" crc="3917232248" ref="portfolio"/>
+    <file name="u930-4.png" crc="4018200841" ref="portfolio"/>
+    <file name="u2096-4.png" crc="485717971" ref="services"/>
+    <file name="u2097-4.png" crc="4062500330" ref="services"/>
+    <file name="u2098-4.png" crc="4075921082" ref="services"/>
+    <file name="u2099-4.png" crc="323050158" ref="services"/>
+    <file name="u2150-4.png" crc="93503332" ref="services"/>
+    <file name="wedding-443600_1280.png" crc="74238263" ref="services">
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="u2183-4.png" crc="3975290026" ref="services"/>
+    <file name="girl-1828536_1920.jpg" crc="345608493" ref="services">
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="u2204-4.png" crc="75450845" ref="services"/>
+    <file name="fashion-1636872_1920.png" crc="147361119" ref="services">
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="u2231-4.png" crc="252251813" ref="services"/>
+    <file name="bled-2608425_1920.jpg" crc="226958765" ref="services">
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="u2237-4.png" crc="104252171" ref="services"/>
+    <file name="beauty-1319951_1920.png" crc="250522050" ref="services">
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="u2255-4.png" crc="181346819" ref="services"/>
+    <file name="woman-1948939_1280.png" crc="3892440724" ref="services">
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="u2261-4.png" crc="81790062" ref="services"/>
+    <file name="u2365-4.png" crc="485717971" ref="contact"/>
+    <file name="u2366-4.png" crc="315202101" ref="contact"/>
+    <file name="u2367-4.png" crc="4075921082" ref="contact"/>
+    <file name="u2368-4.png" crc="427153887" ref="contact"/>
+    <file name="u2369-4.png" crc="275062696" ref="contact"/>
+    <file name="u2670-4.png" crc="485717971" ref="single-page"/>
+    <file name="u2671-4.png" crc="3990636760" ref="single-page"/>
+    <file name="u2672-4.png" crc="4075921082" ref="single-page"/>
+    <file name="u2673-4.png" crc="521452514" ref="single-page"/>
+    <file name="adult-beautiful-beauty-247298.jpg" crc="3920463806" ref="single-page">
+      <caption webpage="single-page" alt=""/>
+    </file>
+    <file name="u2692-4.png" crc="4163882806" ref="single-page"/>
+    <file name="u2689-4.png" crc="3822741771" ref="single-page"/>
+    <file name="u2695-4.png" crc="3834158179" ref="single-page"/>
+    <file name="u2701-4.png" crc="4105486381" ref="single-page"/>
+  </folder>
+  <file name="index.html" crc="310849802" seo="true" mt="1527154713443" redirect="true"/>
+  <file name="about.html" crc="374685227" seo="true" mt="1527153579794" redirect="true"/>
+  <file name="portfolio.html" crc="68977299" seo="true" mt="1527154411279" redirect="true"/>
+  <file name="services.html" crc="382159213" seo="true" mt="1527154279902" redirect="true"/>
+  <file name="contact.html" crc="4023276698" seo="true" mt="1527151074462" redirect="true"/>
+  <file name="single-page.html" crc="3878109638" seo="true" mt="1527154540819" redirect="true"/>
+</manifest>
